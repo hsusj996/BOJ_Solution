@@ -1,6 +1,5 @@
 package java_baekjoon;
 
-import java.util.*;
 import java.io.*;
 
 public class prob19532 {

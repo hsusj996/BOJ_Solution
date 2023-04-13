@@ -22,7 +22,7 @@ public class prob15829 {
         long pow = 1;
         String str = br.readLine();
 
-        for(int i=0;i<str.length();i++){
+        for(int i=0;i<L;i++){
             int buf = map.get(str.charAt(i));
 
             long tmp = (long) (buf * pow);

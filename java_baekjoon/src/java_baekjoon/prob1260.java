@@ -48,6 +48,7 @@ public class prob1260 {
             visit[i] = false;
         }
         BFS();
+        sc.close();
         return;
     }
 

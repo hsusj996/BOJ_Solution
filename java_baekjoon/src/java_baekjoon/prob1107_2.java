@@ -1,8 +1,6 @@
 package java_baekjoon;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class prob1107_2 {
@@ -43,5 +41,6 @@ public class prob1107_2 {
             }
         }
         System.out.println(ans);
+        sc.close();
     }
 }

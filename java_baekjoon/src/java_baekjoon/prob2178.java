@@ -55,6 +55,7 @@ public class prob2178 {
         que.add(new int[] { 1, 1 });
         System.out.println(BFS());
 
+        sc.close();
         return;
     }
 

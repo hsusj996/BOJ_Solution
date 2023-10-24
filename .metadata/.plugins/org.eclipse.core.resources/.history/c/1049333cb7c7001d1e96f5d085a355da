@@ -1,9 +1,0 @@
-package java_baekjoon;
-
-import java.util.*;
-
-public class prob19532 {
-	Scanner sc = new Scanner(System.in);
-	
-	
-}

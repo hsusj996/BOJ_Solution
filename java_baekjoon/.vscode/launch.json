@@ -1,0 +1,1022 @@
+{
+  // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+  // 기존 특성에 대한 설명을 보려면 가리킵니다.
+  // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "prob11444",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11444",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1563_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1563_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1563",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1563",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11404",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11404",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob4811",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob4811",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11054",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11054",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2293",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2293",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2011",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2011",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob5639_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob5639_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob5639",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob5639",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "prob10026",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob10026",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1003",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1003",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1012",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1012",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1012_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1012_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1043",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1043",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1072",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1072",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1072_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1072_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1074",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1074",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob10773",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob10773",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob10798",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob10798",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob10811",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob10811",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob10812",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob10812",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob10819",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob10819",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob10826",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob10826",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob10844",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob10844",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob10988",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob10988",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11053",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11053",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11055",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11055",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11057",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11057",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1107",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1107",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1107_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1107_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11279",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11279",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11286",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11286",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11399",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11399",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11403",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11403",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11403_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11403_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1149",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1149",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1149_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1149_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11659",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11659",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11659_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11659_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11660",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11660",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1167",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1167",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11723",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11723",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11723_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11723_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11723_3",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11723_3",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11724",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11724",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11725",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11725",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1182",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1182",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob11866",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob11866",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1238",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1238",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1260",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1260",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob13305",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob13305",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1389",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1389",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1406",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1406",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1406_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1406_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1406_3",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1406_3",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob14500",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob14500",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob14501",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob14501",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob14501_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob14501_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob14888",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob14888",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob14889",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob14889",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob14940",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob14940",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob14940_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob14940_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1504",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1504",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1541",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1541",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob15654",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob15654",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob15829",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob15829",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob16236",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob16236",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1629",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1629",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob16395",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob16395",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1654",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1654",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob16928",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob16928",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob16953",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob16953",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1697",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1697",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1699",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1699",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob17219",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob17219",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1753",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1753",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1780",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1780",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob18110",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob18110",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob18111",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob18111",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1865",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1865",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1874",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1874",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1916",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1916",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1918",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1918",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1927",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1927",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1931",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1931",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1932",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1932",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1946",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1946",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob19532",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob19532",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1966",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1966",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1967",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1967",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1987",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1987",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1991",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1991",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob1992",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob1992",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob20529",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob20529",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob20529_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob20529_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2096",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2096",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2096_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2096_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2156",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2156",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob21736",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob21736",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2178",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2178",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2178_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2178_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2193",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2193",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2193_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2193_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2206",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2206",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2439",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2439",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2444",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2444",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2448",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2448",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2468",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2468",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2512",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2512",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob25206",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob25206",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob25314",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob25314",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2559",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2559",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2579",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2579",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2583",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2583",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2606",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2606",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2630",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2630",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2638",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2638",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2638_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2638_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2644",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2644",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2667",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2667",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob27866",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob27866",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob28017",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob28017",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob2805",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob2805",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob3273",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob3273",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob4949",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob4949",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob4963",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob4963",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob5430",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob5430",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob5430_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob5430_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob5525",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob5525",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob5525_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob5525_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob6064",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob6064",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob6603",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob6603",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob7562",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob7562",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob7569",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob7569",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob7576",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob7576",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob7662",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob7662",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob7662_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob7662_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob9019",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob9019",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob9019_2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob9019_2",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob9019_3",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob9019_3",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "prob9465",
+      "request": "launch",
+      "mainClass": "java_baekjoon/java_baekjoon.prob9465",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "solution",
+      "request": "launch",
+      "mainClass": "java_baekjoon/ssapy.solution",
+      "projectName": "java_baekjoon"
+    },
+    {
+      "type": "java",
+      "name": "solution2",
+      "request": "launch",
+      "mainClass": "java_baekjoon/ssapy.solution2",
+      "projectName": "java_baekjoon"
+    }
+  ]
+}

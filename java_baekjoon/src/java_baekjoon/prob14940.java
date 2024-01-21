@@ -59,12 +59,12 @@ public class prob14940 {
     }
 
     public static void bfs(int x, int y) {
-        Queue<node> q = new LinkedList<>();
-        q.add(new node(x, y));
+        Queue<vertex> q = new LinkedList<>();
+        q.add(new vertex(x, y));
         visited[x][y] = true;
 
         while (!q.isEmpty()) {
-            node now = q.poll();
+            vertex now = q.poll();
 
             for (int i = 0; i < 4; i++) {
                 int next_x = now.x + r_d[i];
@@ -73,7 +73,7 @@ public class prob14940 {
                 if (next_x >= 0 && next_x < N && next_y >= 0 && next_y < M && !visited[next_x][next_y]) {
                     if (map[next_x][next_y] == 1) {
                         ans[next_x][next_y] = ans[now.x][now.y] + 1;
-                        q.add(new node(next_x, next_y));
+                        q.add(new vertex(next_x, next_y));
                         visited[next_x][next_y] = true;
                     }
                 }
@@ -83,11 +83,11 @@ public class prob14940 {
     }
 }
 
-class node {
+class vertex {
     int x;
     int y;
 
-    public node(int x, int y) {
+    public vertex(int x, int y) {
         this.x = x;
         this.y = y;
     }
